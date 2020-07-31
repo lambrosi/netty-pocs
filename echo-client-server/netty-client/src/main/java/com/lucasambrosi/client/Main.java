@@ -1,4 +1,4 @@
-package com.lucasambrosi.server;
+package com.lucasambrosi.client;
 
 public class Main {
 

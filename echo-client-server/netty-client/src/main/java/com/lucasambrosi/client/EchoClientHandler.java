@@ -1,4 +1,4 @@
-package com.lucasambrosi.server;
+package com.lucasambrosi.client;
 
 import io.netty.buffer.ByteBuf;
 import io.netty.buffer.Unpooled;

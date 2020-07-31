@@ -1,4 +1,4 @@
-package com.lucasambrosi.server;
+package com.lucasambrosi.client;
 
 import io.netty.bootstrap.Bootstrap;
 import io.netty.channel.ChannelFuture;
