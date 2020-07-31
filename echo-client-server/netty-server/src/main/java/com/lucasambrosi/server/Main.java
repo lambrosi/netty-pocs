@@ -2,7 +2,9 @@ package com.lucasambrosi.server;
 
 public class Main {
 
-    public static void main(String[] args) throws Exception {
+    private static final int PORT = 8080;
 
+    public static void main(String[] args) throws Exception {
+        new EchoServer(PORT).start();
     }
 }
